@@ -64,4 +64,12 @@ nav{
     color: hsl(300,69%,71%);
     box-shadow: -1px 2px 5pxrgb(70,68,68);
 }
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    position: relative;
+    margin-bottom: 8%;
+}
 
